@@ -78,4 +78,5 @@ Below are the notes I took during [the event](https://www.meetup.com/es-ES/madri
 ![placeholder](https://farm5.staticflickr.com/4510/37138065560_0f0c6ba51e_c.jpg "slide")
 
 > Follow [@MadridDevops](https://twitter.com/MadridDevops) on Twitter
+> [Link to the video](https://www.youtube.com/watch?v=g5ilOHNbvKU) (Youtube)
 
